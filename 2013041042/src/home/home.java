@@ -7,6 +7,8 @@ public class home {
 		System.out.println("helle java");
 		System.out.println("hello YeonWoo");
 		System.out.println("hello YeonWoo ZZang");
+		System.out.println("helle YeonWoo");
+		System.out.println("hello YeonWoo King");
 	}
 
 }
